@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#0F172A"></rect>
+
+  <!-- Left content bar -->
+  <rect x="16" y="14" width="8" height="36" rx="4" fill="#38BDF8"></rect>
+
+  <!-- Top content block -->
+  <rect x="28" y="14" width="20" height="14" rx="6" fill="#E5E7EB"></rect>
+
+  <!-- Bottom content block -->
+  <rect x="28" y="32" width="20" height="18" rx="6" fill="#94A3B8"></rect>
+</svg>
